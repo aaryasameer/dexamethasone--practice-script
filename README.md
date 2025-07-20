@@ -17,4 +17,4 @@ Quality check of rnaseq data using PCA plots, inspecting size factor and dispers
 Building MA plot
 Extraction of best genes
 Building volcano plot and heatmap to represent this data
-
+![PCA_plot](plots/PCA_plot.jpeg)
