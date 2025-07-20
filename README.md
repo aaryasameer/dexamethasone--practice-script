@@ -19,4 +19,7 @@ Extraction of best genes
 Building volcano plot and heatmap to represent this data
 ![PCA_plot](plots/PCA_plot.jpeg)
 ![MA_plot](plots/MA_plot.jpeg)
+![size_factor_estimation](plots/size_factor_estimation.jpeg)
+![volcano_plot](plots/volcano_plot.jpeg)
+![heatmap_of_DEGs](plots/heatmap_of_DEGs.jpeg)
 
