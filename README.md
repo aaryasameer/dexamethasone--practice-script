@@ -18,3 +18,5 @@ Building MA plot
 Extraction of best genes
 Building volcano plot and heatmap to represent this data
 ![PCA_plot](plots/PCA_plot.jpeg)
+![MA_plot](plots/MA_plot.jpeg)
+
